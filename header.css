@@ -26,6 +26,10 @@ nav{
   align-items: center;
   color: #00487c;
 
+  
+}
+
+header{
   top: 0;
   position: sticky;
   z-index: 50;
